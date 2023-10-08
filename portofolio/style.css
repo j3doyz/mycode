@@ -10,7 +10,7 @@ body {
 }
 
 .judul {
-    color: lightblue;
+    color: rgb(10, 100, 236);
 }
 
 .gambar {
@@ -47,7 +47,7 @@ ol {
 }
 
 a {
-    color:lightgoldenrodyellow;
+    color:red;
     text-decoration: none;
 }
 
